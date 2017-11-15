@@ -43,6 +43,10 @@ Mi Timeline
 La vida
 <iframe src="https://uploads.knightlab.com/storymapjs/2c513b35487a632cb4df0ec4eb12e6a3/la-ruta-de-mi-vida/index.html" frameborder="0" width="100%" height="800"></iframe>
 
+Mapa
+
+<iframe src="//datawrapper.dwcdn.net/OPIgJ/1/" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="748" height="513"></iframe>
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
