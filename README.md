@@ -26,3 +26,8 @@ Humberto de la Calle vs. Gustavo Petro: ¿a quién buscaron más en google vía 
 Paraísos fiscales
 
 <iframe src="https://www.google.com/maps/d/embed?mid=15Zdilqj_XloO_R83VzWhxOTUFGUnsB9d" width="640" height="480"></iframe>
+
+
+Mapa paraísos fiscales
+
+<iframe width="100%" height="520" frameborder="0" src="https://jaimikhos.carto.com/builder/934fca53-e0ee-48cb-8611-3c32e365aa7a/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
