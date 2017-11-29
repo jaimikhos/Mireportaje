@@ -18,3 +18,7 @@ Campañas electorales
 
 RCN, el medio que más perdió plata en 2016
 <iframe width="690" height="543.1591666666668" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRz_U0yiOcMnnwj_4LIV3xD9dNMkAhjMzPVmEu7JS38dzIYwFXm8j-vQFqW876UEA312D4e3DWL3Heu/pubchart?oid=546236245&amp;format=interactive"></iframe>
+
+Humberto de la Calle vs. Gustavo Petro: ¿a quién buscaron más en google vía móvil?
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1225_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Gustavo Petro","geo":"","time":"today 12-m"},{"keyword":"Humberto de la Calle","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=Gustavo%20Petro,Humberto%20de%20la%20Calle&date=today 12-m,today 12-m","guestPath":"https://trends.google.es:443/trends/embed/"}); </script> 
