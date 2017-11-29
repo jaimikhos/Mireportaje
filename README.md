@@ -16,5 +16,5 @@ Campañas electorales
 
 <script id="infogram_0_3a156b31-8ae7-4869-950f-06842e9c4e68" title="" src="https://e.infogram.com/js/dist/embed.js?Hjv" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
-RCN, el medio que ms perdió plata en 2016
-<iframe width="1110.5" height="686.6591666666668" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRz_U0yiOcMnnwj_4LIV3xD9dNMkAhjMzPVmEu7JS38dzIYwFXm8j-vQFqW876UEA312D4e3DWL3Heu/pubchart?oid=546236245&amp;format=interactive"></iframe>
+RCN, el medio que más perdió plata en 2016
+<iframe width="690" height="543.1591666666668" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRz_U0yiOcMnnwj_4LIV3xD9dNMkAhjMzPVmEu7JS38dzIYwFXm8j-vQFqW876UEA312D4e3DWL3Heu/pubchart?oid=546236245&amp;format=interactive"></iframe>
